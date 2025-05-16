@@ -1,0 +1,6 @@
+# ignore files
+.vs
+
+x64
+
+.exe
